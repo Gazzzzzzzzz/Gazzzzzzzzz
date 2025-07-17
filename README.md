@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gazzzzzzzzz
 - 👀 I’m interested in crap
 - 💻 Wokring on ricing my Framework 13
-- 📌 Studying Computer sci @ Hanover college 
+- 📌 Studying Computer sci @ Hanover college (Freshman)
 - 📫 How to reach me gazmi11w00d@duck.com
 
 <!---
